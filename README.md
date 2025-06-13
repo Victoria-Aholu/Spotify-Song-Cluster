@@ -3,7 +3,7 @@
 This project clusters songs from Spotify based on their audio features using unsupervised learning (KMeans). Visualized using PCA.
 
 ## Try It in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/spotify-song-clustering/blob/main/spotify_clustering.ipynb](https://raw.githubusercontent.com/Victoria-Aholu/Spotify-Song-Cluster/refs/heads/main/spotify_clustering.ipynb?token=GHSAT0AAAAAADFSEI7VMGZ3SV2G5RFKSVFK2CML6TQ))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/Victoria-Aholu/Spotify-Song-Cluster/refs/heads/main/spotify_clustering.ipynb?token=GHSAT0AAAAAADFSEI7VMGZ3SV2G5RFKSVFK2CML6TQ)
 
 ## Features Used
 - Danceability
